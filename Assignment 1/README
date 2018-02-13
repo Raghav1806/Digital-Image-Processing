@@ -1,0 +1,32 @@
+# CSL 461 Assignment 1:
+
+--------------------------------------------------------------------------------
+# Aim:
+--------------------------------------------------------------------------------
+Implement the following image enhancement operations/methods:
+(1) Image Resize				- (Not Implemented)
+(2) Affine Transformations			- (Not Implemented)
+(3) Image negatives
+(4) Log transformations
+(5) Power-law/Gamma Transformations
+(6) Piecewise linear transformation functions
+(7) Bitplane slicing
+(8) Image reconstruction given some tie points	- (Not Implemented)
+(9) Histogram equalization
+(10) Adaptive histogram equalization
+(11) Histogram matching
+---------------------------------------------------------------------------------
+# Developed By:
+Raghav Sharma
+2015EEB1071
+---------------------------------------------------------------------------------
+# Submitted On: 06/02/2018
+---------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------
+Instructions for running the script file:
+---------------------------------------------------------------------------------
+(1) g++ A2_RaghavSharma_2015EEB1071.cpp -o output `pkg-config --cflags --libs opencv
+(2) ./output
+(3) Keep on pressing any key for applying desired filters on the original image.
