@@ -1,0 +1,26 @@
+CSL 461 Assignment 2:
+
+--------------------------------------------------
+Aim: 
+--------------------------------------------------
+Morph the given two images using delaunay triangulation algorithm.
+--------------------------------------------------
+Developed By:
+Raghav Sharma
+2015EEB1071
+--------------------------------------------------
+Submitted On: 19/02/2018
+--------------------------------------------------
+
+--------------------------------------------------
+Instructions for running the script file:
+--------------------------------------------------
+(1) g++ -std=c++0x A2_RaghavSharma_2015EEB1071.cpp -o output `pkg-config --cflags --libs opencv`
+(2) ./output
+
+--------------------------------------------------
+NOTE: If you desire to mark tie points yourself, make sure that you copy the contents of new coordinate into the files:
+(1) File1.txt
+(2) File2.txt
+--------------------------------------------------
+
