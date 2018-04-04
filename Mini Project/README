@@ -1,0 +1,40 @@
+CSL 461 Mini-Project:
+
+--------
+Aim:
+--------
+Implement and compile results of fast digital image inpainting algorithm in OpenCV, using C++
+
+---------------
+References:
+---------------
+(1) http://www.inf.ufrgs.br/~oliveira/pubs_files/inpainting.pdf
+(2) https://github.com/Mugichoko445/Fast-Digital-Image-Inpainting
+
+---------
+Notes:
+--------- 
+https://docs.google.com/document/d/1PHJIWciVr6b4grxccToOf5ndmo4Im-rPOzYeSZ_u0mU/edit?usp=sharing
+
+----------------
+Developed By:
+----------------
+Raghav Sharma
+2015EEB1071		
+
+--------------------------
+Submitted On: 04/04/2018
+--------------------------
+
+---------------------
+Software Required:
+--------------------- 
+OpenCV 2.X (or higher) and C++11 (or higher) compiler
+
+
+-------------------------------------------
+Instructions for running the script file:
+-------------------------------------------
+(1) g++ -std=c++0x  main.cpp -o output `pkg-config --cflags --libs opencv`
+(2) ./output
+
